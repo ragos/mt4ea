@@ -1,2 +1,2 @@
 # mt4ea
-Meta4 EA
+USDJPY, EURUSDを対象にしたエキスパートシステム。エントリーサインとしてMACD, BBバンドを利用
